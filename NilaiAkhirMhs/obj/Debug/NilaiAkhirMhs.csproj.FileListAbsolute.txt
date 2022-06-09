@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\NilaiAkhirMhs\NilaiAkhirMhs\bin\Debug\NilaiAkhirMhs.exe.config
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\NilaiAkhirMhs\NilaiAkhirMhs\bin\Debug\NilaiAkhirMhs.exe
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\NilaiAkhirMhs\NilaiAkhirMhs\bin\Debug\NilaiAkhirMhs.pdb
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\NilaiAkhirMhs\NilaiAkhirMhs\obj\Debug\NilaiAkhirMhs.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\NilaiAkhirMhs\NilaiAkhirMhs\obj\Debug\NilaiAkhirMhs.MainForm.resources
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\NilaiAkhirMhs\NilaiAkhirMhs\obj\Debug\NilaiAkhirMhs.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\NilaiAkhirMhs\NilaiAkhirMhs\obj\Debug\NilaiAkhirMhs.exe
+C:\Users\user\OneDrive\Documents\SharpDevelop Projects\NilaiAkhirMhs\NilaiAkhirMhs\obj\Debug\NilaiAkhirMhs.pdb
